@@ -1,0 +1,32 @@
+
+
+@media (max-width: 670px){
+   .row{
+       flex-wrap: wrap;
+   }
+   button{
+       width:25%;
+   }
+   .calculator-screen{
+     width: 100% ;
+     height: auto;
+   }
+   h1, p {
+       font-size: auto;
+   }
+}
+@media (max-width: 1000px){
+    .row{
+        flex-wrap: wrap;
+    }
+    button{
+        width:25%;
+    }
+    .calculator-screen{
+      width: 100% ;
+      height: auto;
+    }
+    h1, p {
+        font-size: auto;
+    }
+ }
